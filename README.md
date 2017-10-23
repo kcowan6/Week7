@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: Cross-Site Scripting (XSS)
     - Tested in version: 4.2
     - Fixed in version: 4.2
-  - [X] GIF Walkthrough: <img src='http://i.imgur.com/a/EkDxP.gif' title='GIF Walkthrough 1' width='' alt='GIF Walkthrough 1' />
+  - [X] GIF Walkthrough: <img src='https://media.giphy.com/media/3ohhwq1IRiHm6TLHgY/giphy.gif' title='GIF Walkthrough 1' width='' alt='GIF Walkthrough 1' />
   - [X] Steps to recreate: Create a comment, and in the text body, type <script>while(1){alert(document.cookie);}</script>. Once you submit and attempt to reload the page, the alert messages will continue infinitely.  This can only be fixed by going back into the admin page and deleting the comment.
   - [X] Affected source code:
     - [Link 1](http://www.smeegesec.com/2012/06/collection-of-cross-site-scripting-xss.html)
