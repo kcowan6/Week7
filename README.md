@@ -31,26 +31,8 @@ Time spent: **X** hours spent in total
     - Fixed in version: 4.2.10
   - [X] GIF Walkthrough: <img src='https://media.giphy.com/media/l1J9NWTLm2WwgCFkQ/giphy.gif' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
   - [X] Steps to recreate: Download an image, and name if a<img src=a onerror=alert(document.cookie)>.jpg.  Upload it as a new media file, and click to view its attachment page. An alert message will pop up before the page is loaded.
-  - [] Affected source code:
+  - [X] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
-4. (Optional) Vulnerability Name or ID
-  - [ ] Summary:
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version:
-  - [ ] GIF Walkthrough: <img src='' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
-  - [ ] Steps to recreate:
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-5. (Optional) Vulnerability Name or ID
-  - [ ] Summary:
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version:
-  - [ ] GIF Walkthrough: <img src='' title='GIF Walkthrough' width='' alt='GIF Walkthrough' />
-  - [ ] Steps to recreate:
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 ## Assets
 
